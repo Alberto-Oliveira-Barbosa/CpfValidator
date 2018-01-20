@@ -1,0 +1,10 @@
+/home/fenrir/Documentos/cSharp/ValidarCPF/bin/Debug/netcoreapp2.0/ValidarCPF.deps.json
+/home/fenrir/Documentos/cSharp/ValidarCPF/bin/Debug/netcoreapp2.0/ValidarCPF.runtimeconfig.json
+/home/fenrir/Documentos/cSharp/ValidarCPF/bin/Debug/netcoreapp2.0/ValidarCPF.runtimeconfig.dev.json
+/home/fenrir/Documentos/cSharp/ValidarCPF/bin/Debug/netcoreapp2.0/ValidarCPF.dll
+/home/fenrir/Documentos/cSharp/ValidarCPF/bin/Debug/netcoreapp2.0/ValidarCPF.pdb
+/home/fenrir/Documentos/cSharp/ValidarCPF/obj/Debug/netcoreapp2.0/ValidarCPF.csproj.CoreCompileInputs.cache
+/home/fenrir/Documentos/cSharp/ValidarCPF/obj/Debug/netcoreapp2.0/ValidarCPF.AssemblyInfoInputs.cache
+/home/fenrir/Documentos/cSharp/ValidarCPF/obj/Debug/netcoreapp2.0/ValidarCPF.AssemblyInfo.cs
+/home/fenrir/Documentos/cSharp/ValidarCPF/obj/Debug/netcoreapp2.0/ValidarCPF.dll
+/home/fenrir/Documentos/cSharp/ValidarCPF/obj/Debug/netcoreapp2.0/ValidarCPF.pdb
